@@ -1,7 +1,7 @@
-
-//AUTHOR: KRISHNA LIMBAD
-//TOPIC: SPHERICAL ROBOT
-//**************************************************
+/**************************************************
+AUTHOR: KRISHNA LIMBAD
+TOPIC: SPHERICAL ROBOT
+**************************************************/
 #include<SoftwareSerial.h>
 SoftwareSerial gsm (2, 3); //make RX arduino line is pin 2, make TX arduino line is pin 3.
 SoftwareSerial gps(4, 5);  //make RX arduino line is pin 4, make TX arduino line is pin 5.
